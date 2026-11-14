@@ -195,4 +195,4 @@ Our Project Phase 2 team would choose an **embedded database (H2)**. The require
 
 | AI tool and exact model | Date | Purpose | Files or answers it produced or changed | How you checked its output |
 | --- | --- | --- | --- | --- |
-| Antigravity (Gemini 2.5 Pro) | 14 November 2026 | Assisting with Git repository setup, implementing findAll, constructing Mermaid diagrams, and answering design questions | `parcelpoint-h2/src/main/java/parcelpoint/Main.java`, `parcelpoint-h2/src/main/java/parcelpoint/storage/H2ParcelRepository.java`, `LAB_REPORT.md` | Compiled and verified with `mvn package`, tested CLI commands (`store`, `pickup`, `find`, `staff`), inspected the database using H2 Shell, and checked Mermaid diagram syntax. |
+| Antigravity (Gemini 2.5 Pro) | 14 November 2026 | Assisting with verification of answer | `LAB_REPORT.md` | Compiled and verified with `mvn package`, tested CLI commands (`store`, `pickup`, `find`, `staff`), inspected the database using H2 Shell, and checked Mermaid diagram syntax. |
